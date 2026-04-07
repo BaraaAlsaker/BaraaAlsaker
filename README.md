@@ -3,7 +3,7 @@
      Replace banner.png with your own banner image later
 ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BaraaAlsaker/BaraaAlsaker/main/banner.png" alt="Baraa Alsaker Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/BaraaAlsaker/BaraaAlsaker/main/banner.png" alt="Baraa Alsaker Banner" width="70%" />
 </p>
 
 # 👋 Hi, I'm Baraa Alsaker
