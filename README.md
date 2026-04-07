@@ -2,9 +2,7 @@
      PROFILE BANNER
      Replace banner.png with your own banner image later
 ========================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BaraaAlsaker/BaraaAlsaker/main/banner.png" alt="Baraa Alsaker Banner" width="70%" />
-</p>
+![Banner](./banner.png)
 
 # 👋 Hi, I'm Baraa Alsaker
 
